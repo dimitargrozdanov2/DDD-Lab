@@ -1,0 +1,9 @@
+C:\Users\dimitar.grozdanov\source\repos\Pasta.Domain\Pasta.Domain\bin\Debug\netcoreapp3.1\Pasta.Domain.deps.json
+C:\Users\dimitar.grozdanov\source\repos\Pasta.Domain\Pasta.Domain\bin\Debug\netcoreapp3.1\Pasta.Domain.dll
+C:\Users\dimitar.grozdanov\source\repos\Pasta.Domain\Pasta.Domain\bin\Debug\netcoreapp3.1\Pasta.Domain.pdb
+C:\Users\dimitar.grozdanov\source\repos\Pasta.Domain\Pasta.Domain\obj\Debug\netcoreapp3.1\Pasta.Domain.csprojAssemblyReference.cache
+C:\Users\dimitar.grozdanov\source\repos\Pasta.Domain\Pasta.Domain\obj\Debug\netcoreapp3.1\Pasta.Domain.AssemblyInfoInputs.cache
+C:\Users\dimitar.grozdanov\source\repos\Pasta.Domain\Pasta.Domain\obj\Debug\netcoreapp3.1\Pasta.Domain.AssemblyInfo.cs
+C:\Users\dimitar.grozdanov\source\repos\Pasta.Domain\Pasta.Domain\obj\Debug\netcoreapp3.1\Pasta.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dimitar.grozdanov\source\repos\Pasta.Domain\Pasta.Domain\obj\Debug\netcoreapp3.1\Pasta.Domain.dll
+C:\Users\dimitar.grozdanov\source\repos\Pasta.Domain\Pasta.Domain\obj\Debug\netcoreapp3.1\Pasta.Domain.pdb

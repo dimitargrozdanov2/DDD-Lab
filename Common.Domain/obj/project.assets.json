@@ -1,11 +1,38 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Ardalis.SmartEnum/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Ardalis.SmartEnum.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Ardalis.SmartEnum.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Ardalis.SmartEnum/2.0.1": {
+      "sha512": "tukxECzQuEXRGUzalYGF90CrD0hqW+308J3IaDKUoIavF3npUGVGn2ptumDSMIdZWInjPTlk3eJrrZuAePQbYA==",
+      "type": "package",
+      "path": "ardalis.smartenum/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ardalis.smartenum.2.0.1.nupkg.sha512",
+        "ardalis.smartenum.nuspec",
+        "icon.png",
+        "lib/netstandard2.0/Ardalis.SmartEnum.dll",
+        "lib/netstandard2.0/Ardalis.SmartEnum.xml"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Ardalis.SmartEnum >= 2.0.1"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\dimitar.grozdanov\\.nuget\\packages\\": {}
@@ -13,11 +40,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimitar.grozdanov\\source\\repos\\Pasta.Domain\\Common.Domain\\Common.Domain.csproj",
+      "projectUniqueName": "\\\\aries\\redirectedfolders$\\dimitar.grozdanov\\Desktop\\Studying\\DDD\\Lab\\DDD-Lab\\Common.Domain\\Common.Domain.csproj",
       "projectName": "Common.Domain",
-      "projectPath": "C:\\Users\\dimitar.grozdanov\\source\\repos\\Pasta.Domain\\Common.Domain\\Common.Domain.csproj",
+      "projectPath": "\\\\aries\\redirectedfolders$\\dimitar.grozdanov\\Desktop\\Studying\\DDD\\Lab\\DDD-Lab\\Common.Domain\\Common.Domain.csproj",
       "packagesPath": "C:\\Users\\dimitar.grozdanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimitar.grozdanov\\source\\repos\\Pasta.Domain\\Common.Domain\\obj\\",
+      "outputPath": "\\\\aries\\redirectedfolders$\\dimitar.grozdanov\\Desktop\\Studying\\DDD\\Lab\\DDD-Lab\\Common.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimitar.grozdanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,7 +55,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/ManagementFinancialGroup/Abstractions/_packaging/abstractions/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -45,6 +73,12 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Ardalis.SmartEnum": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

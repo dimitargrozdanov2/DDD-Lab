@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimitar.grozdanov\\source\\repos\\Pasta.Domain\\Pasta.Domain\\Pasta.Domain.csproj": {}
+    "\\\\aries\\redirectedfolders$\\dimitar.grozdanov\\Desktop\\Studying\\DDD\\Lab\\DDD-Lab\\Pasta.Domain\\Pasta.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimitar.grozdanov\\source\\repos\\Pasta.Domain\\Pasta.Domain\\Pasta.Domain.csproj": {
+    "\\\\aries\\redirectedfolders$\\dimitar.grozdanov\\Desktop\\Studying\\DDD\\Lab\\DDD-Lab\\Pasta.Domain\\Pasta.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimitar.grozdanov\\source\\repos\\Pasta.Domain\\Pasta.Domain\\Pasta.Domain.csproj",
+        "projectUniqueName": "\\\\aries\\redirectedfolders$\\dimitar.grozdanov\\Desktop\\Studying\\DDD\\Lab\\DDD-Lab\\Pasta.Domain\\Pasta.Domain.csproj",
         "projectName": "Pasta.Domain",
-        "projectPath": "C:\\Users\\dimitar.grozdanov\\source\\repos\\Pasta.Domain\\Pasta.Domain\\Pasta.Domain.csproj",
+        "projectPath": "\\\\aries\\redirectedfolders$\\dimitar.grozdanov\\Desktop\\Studying\\DDD\\Lab\\DDD-Lab\\Pasta.Domain\\Pasta.Domain.csproj",
         "packagesPath": "C:\\Users\\dimitar.grozdanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimitar.grozdanov\\source\\repos\\Pasta.Domain\\Pasta.Domain\\obj\\",
+        "outputPath": "\\\\aries\\redirectedfolders$\\dimitar.grozdanov\\Desktop\\Studying\\DDD\\Lab\\DDD-Lab\\Pasta.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimitar.grozdanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ManagementFinancialGroup/Abstractions/_packaging/abstractions/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

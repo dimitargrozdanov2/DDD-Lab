@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1xaPj+YFzKUuBQj8u42EydhSGtLJqms2MM7hDmBQDBDbn2yUm35oJrbFv+auhu9WB9jXRndm/aC0eyYkonPQQw==",
+  "dgSpecHash": "sBUftiRI11XWbNdA6pWAtRgnXhvMPoWnpsymbUcLYJzmyoy4YQmtAh43gvbKMOdEjJ0eEKNLg4pinf8YlBB56A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dimitar.grozdanov\\source\\repos\\Pasta.Domain\\Common.Domain\\Common.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "\\\\aries\\redirectedfolders$\\dimitar.grozdanov\\Desktop\\Studying\\DDD\\Lab\\DDD-Lab\\Common.Domain\\Common.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimitar.grozdanov\\.nuget\\packages\\ardalis.smartenum\\2.0.1\\ardalis.smartenum.2.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
